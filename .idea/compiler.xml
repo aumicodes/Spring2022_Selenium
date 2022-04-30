@@ -9,5 +9,11 @@
         <module name="Spring2022_Selenium" />
       </profile>
     </annotationProcessing>
+<<<<<<< HEAD
+    <bytecodeTargetLevel>
+      <module name="Spring2022_Selenium" target="8" />
+    </bytecodeTargetLevel>
+=======
+>>>>>>> 10926c77031320621e9495acc175481184e3d17d
   </component>
 </project>
