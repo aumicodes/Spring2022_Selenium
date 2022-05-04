@@ -5,17 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2f90eceb-a896-4054-8396-c84067a75ffb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Drivers/chromedriver.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Class1/UseSelenium.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Class1/UseTestNG.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/Class1/UseSelenium.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/Class1/UseTestNG.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Class1/Homework2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Class1/Misc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Class1/UseTestNG.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Class1/UseTestNG.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/.idea/workspace.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +60,60 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="TestNG.Homework2.SignUp">
+    <configuration name="Homework2.SignUp" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Spring2022_Selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Class1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Class1" />
+      <option name="MAIN_CLASS_NAME" value="Class1.Homework2" />
+      <option name="METHOD_NAME" value="SignUp" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Homework2.loginToMessenger" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Spring2022_Selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Class1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Class1" />
+      <option name="MAIN_CLASS_NAME" value="Class1.Homework2" />
+      <option name="METHOD_NAME" value="loginToMessenger" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UseSelenium" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Spring2022_Selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Class1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Class1" />
+      <option name="MAIN_CLASS_NAME" value="Class1.UseSelenium" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="UseSelenium.useSeleniumLib" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Spring2022_Selenium" />
       <extension name="coverage">
@@ -81,6 +134,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.Homework2.SignUp" />
+        <item itemvalue="TestNG.Homework2.loginToMessenger" />
+        <item itemvalue="TestNG.UseSelenium" />
         <item itemvalue="TestNG.UseSelenium.useSeleniumLib" />
       </list>
     </recent_temporary>
