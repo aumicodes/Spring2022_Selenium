@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2f90eceb-a896-4054-8396-c84067a75ffb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/Class1/CodeTest2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Class1/MyDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Class1/Homework3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Class1/Misc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Class1/Misc.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Class1/Misc.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Class1/Misc.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +52,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.CodeTest2">
+  <component name="RunManager" selected="TestNG.Homework3.verifyCorrectTemp">
     <configuration name="CodeTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Class1.CodeTest2" />
       <module name="Spring2022_Selenium" />
@@ -112,7 +109,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CodeTest2.verifyRealFeel" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Homework3.verifyCorrectTemp" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Spring2022_Selenium" />
       <extension name="coverage">
         <pattern>
@@ -121,8 +118,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="Class1" />
-      <option name="MAIN_CLASS_NAME" value="Class1.CodeTest2" />
-      <option name="METHOD_NAME" value="verifyRealFeel" />
+      <option name="MAIN_CLASS_NAME" value="Class1.Homework3" />
+      <option name="METHOD_NAME" value="verifyCorrectTemp" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -132,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.Homework3.verifyCorrectTemp" />
         <item itemvalue="Application.CodeTest2" />
         <item itemvalue="TestNG.CodeTest2" />
         <item itemvalue="Application.Homework3 (1)" />
         <item itemvalue="Application.Homework3" />
-        <item itemvalue="TestNG.CodeTest2.verifyRealFeel" />
       </list>
     </recent_temporary>
   </component>
